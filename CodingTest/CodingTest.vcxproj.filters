@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sumAvg.c">
+    <ClCompile Include="dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calcptr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
